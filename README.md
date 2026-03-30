@@ -1,4 +1,4 @@
-# lab1 square matrix with int and complex
+# lab1 var21 - square matrix with int and complex
 
 Учебный проект на C: квадратные матрицы с поддержкой двух типов элементов:
 
